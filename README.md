@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glen Watson</h1>
 <h3 align="center">A student of Software Engineering</h3>
 
-- 🔭 I’m currently working on [Project 4, Spots!](https://glen-wat.github.io/se_project_spots/)
+- 🔭 I’m currently working on [React]
 
 - 🌱 I’m currently learning **Full stack web development at TripleTens' online bootcamp.**
 
