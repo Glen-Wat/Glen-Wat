@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glen Watson</h1>
-<h3 align="center">A student of Software Engineering</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on [React]
 
